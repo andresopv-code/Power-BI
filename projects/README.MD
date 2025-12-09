@@ -10,3 +10,6 @@ HOY 09-12-2025 SE CAMBIA VALOR DOLAR ANO 2010 POR VALORES 2024 Y 2025 POR LIMITA
 
 ![alt text](image.png)
 
+Se agregan lineas min, max y med al grafico dolar y se organizan tres hojas de trabajo, dimensiones "Mercado", "Liquidez" y "Credito"
+
+![alt text](image-3.png)
