@@ -1,37 +1,15 @@
 ESTE PROYECTO TIENE COMO OBETIVO DAR UNA PERSPECTIVA GENERAL DEL RIESGO FINANCIERO EN CHILE USANDO COMO FUENTES DE DATOS API'S PUBLICAS DE LA CMF, EL BANCO CENTRAL Y OTROS.
 
-PROCESO:
-
-HOY 07-12-2025 SE AGREGAR EL VALOR DOLAR DURANTE EL ANO 2010 PARA HACER PRUEBA DE CARGA
-
-![alt text](image-1.png)
-
-
-HOY 09-12-2025 SE CAMBIA VALOR DOLAR ANO 2010 POR VALORES 2024 Y 2025 POR LIMITANTES DE LA API, SOBRE ESTOS ANOS SE TRABAJARA
-
-![alt text](image.png)
-
-Se agregan lineas min, max y med al grafico dolar y se organizan tres hojas de trabajo, dimensiones "Mercado", "Liquidez" y "Credito"
-
-![alt text](image-3.png)
-
-
-HOY 10-12-2025 SE MEJORA GRAFICO DOLAR, SE AGREGA VALOR TMC, SE CREA UNA TABLA CALENDARIO  Y SE RELACIONAN
+DASHBOARD 1, RIESGO FINANCIERO DE MERCADO ENERO 2024 - OCTUBRE 2025, VALORES ACTUALES AL 13-12-25 DE ACUERDO A FUENTES.
 
 ![alt text](image-4.png)
 
+El IMACEC, no minero, muestra un crecimiento promedio cercano al 14% en el mercado interno, aunque con una alta variabilidad a lo largo del tiempo. Esta inestabilidad puede resultar preocupante para empresas que dependen del consumo interno de bienes y servicios, ya que dificulta la planificación y proyección de la demanda.
 
-HOY 11-12-2025 SE AGREGAN DATOS DE VALOR COBRE E IPSA A TRAVES DE LA API DEL BANCO CENTRAL, SE LIMITA TODO A NOVIEMBRE POR TEMAS DE DISPONIBILIDAD DE DATOS DE LAS DISTINTAS VARIABLES
+La Tasa Máxima Convencional presenta una relativa estabilidad en sus niveles durante los últimos dos años, lo que no resulta extraño considerando que la política monetaria de la FED se ha mantenido restrictiva en un contexto global VUCA. Sin embargo, se observa una desviación estándar amplia entre los distintos tipos de tasas en Chile, lo que incrementa la volatilidad del costo financiero y genera incertidumbre respecto al rango de intereses que deben asumir las empresas al apalancarse según la operación.
 
-![alt text](image-6.png)
+El precio del cobre se mantiene sólido y con una clara tendencia al alza, reafirmando su rol histórico como principal soporte macroeconómico del país. En contraste, el IPSA muestra un desempeño contenido durante el año 2024, pero evidencia una activación significativa y una pendiente de crecimiento pronunciada durante 2025, alcanzando niveles históricamente altos hacia el cierre del año.
 
+El comportamiento del dólar resulta errático y guarda similitudes con la evolución del IMACEC no minero. Este patrón no es inesperado, considerando que el tipo de cambio se encuentra fuertemente influenciado por tensiones geopolíticas y por la actual disputa de poder en el escenario económico global.
 
-
-HOY 12-12-2025 SE MEJORA EL README DEL PROYECTO Y SE CAMBIA EL NOMBRE DEL ARCHIVO Y SE CREA UNA RAMA PARA TRABAJAR EN EL RIESGO DE LIQUIDEZ.
-
-HOY 13-12-2025 SE AGREGA IMACEC NO MINERO, SE CREA UNA TABLA DE MEDIDAS, SE CREAN KPI'S CON LOS VALORES MAS ACTUALES POSIBLES DE LAS VARIABLES PRESENTADAS PARA ANALISIS (MAS UF Y UTM), CON ESTO SE DA POR TERMINADO EL DASHBOARD DE RIESGO FINANCIERO DE MERCADO EN CHILE.
-
-![alt text](image-7.png)
-
-
-![alt text](image-8.png)
+13-12-2025 proyecto en proceso...
