@@ -1,6 +1,6 @@
-ESTE PROYECTO TIENE COMO OBETIVO DAR UNA PERSPECTIVA GENERAL DEL RIESGO FINANCIERO EN CHILE USANDO COMO FUENTES DE DATOS API'S PUBLICAS DE LA CMF, EL BANCO CENTRAL Y OTROS.
+Este proyecto tiene como objetivo dar una perspectiva general del riesgo financiero en Chile, usando como fuentes de datos las API's de la CMF y el Banco Central.
 
-DASHBOARD 1, RIESGO FINANCIERO DE MERCADO ENERO 2024 - OCTUBRE 2025, VALORES ACTUALES AL 13-12-25 DE ACUERDO A FUENTES.
+DASHBOARD 1, RIESGO FINANCIERO DE MERCADO (ENERO 2024 - OCTUBRE 2025) - (KPI's al 13-12-25 de acuerdo a disponibilidad en fuentes). Imagen y análisis:
 
 ![alt text](image-4.png)
 
