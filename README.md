@@ -2,9 +2,11 @@ Este proyecto tiene como objetivo dar una perspectiva general del riesgo financi
 
 DASHBOARD 1, RIESGO FINANCIERO DE MERCADO (ENERO 2024 - OCTUBRE 2025) - (KPI's al 13-12-25 de acuerdo a disponibilidad en fuentes). Imagen y análisis:
 
-![alt text](image-4.png)
+![alt text](image-5.png)
 
-El IMACEC, no minero, muestra un crecimiento promedio cercano al 14% en el mercado interno, aunque con una alta variabilidad a lo largo del tiempo. Esta inestabilidad puede resultar preocupante para empresas que dependen del consumo interno de bienes y servicios, ya que dificulta la planificación y proyección de la demanda.
+Mi perspectiva acerca del riesgo financiero del mercado Chileno los ultimos 22 meses es que el cremiento esta debilitado y contenido pero hay continuidad en su ejecucion, frente a esto sugiero revisar datos de rangos temporales mas amplios, talvez trabajando sobre hipotesis de como se mueve el mercado segun variables que sean pertinentes a una industria en especifico parapoder pronosticar tendencias.
+
+El IMACEC, no minero, muestra un crecimiento promedio de 2.33% en el mercado interno, aunque con una alta variabilidad a lo largo del tiempo. Esta inestabilidad puede resultar preocupante para empresas que dependen del consumo interno de bienes y servicios, ya que dificulta la planificación y proyección de la demanda.
 
 La Tasa Máxima Convencional presenta una relativa estabilidad en sus niveles durante los últimos dos años, lo que no resulta extraño considerando que la política monetaria de la FED se ha mantenido restrictiva en un contexto global VUCA. Sin embargo, se observa una desviación estándar amplia entre los distintos tipos de tasas en Chile, lo que incrementa la volatilidad del costo financiero y genera incertidumbre respecto al rango de intereses que deben asumir las empresas al apalancarse según la operación.
 
